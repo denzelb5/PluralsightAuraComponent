@@ -1,0 +1,3 @@
+<design:component label="Update Cell Number">
+  <design:Attribute name="placeholder" label="Placeholder" placeholder="343-333-3333"/>
+</design:component>
